@@ -32,7 +32,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
-/config/*
+/lib/config/*
 
 # Symbolication related
 app.*.symbols
