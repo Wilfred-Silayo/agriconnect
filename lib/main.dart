@@ -1,7 +1,7 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'dart:async';
-import 'package:agriconnect/supabase_config.dart';
+import 'package:agriconnect/config/supabase_config.dart';
 import 'package:flutter/material.dart';
 import 'package:agriconnect/providers/userdata.dart';
 import 'package:agriconnect/screens/authscreens/accounttypepage.dart';
